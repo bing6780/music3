@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "explore": "Khám phá",
+    "library": "Thư viện",
+    "search": "Tìm kiếm"
+  },
+  "player": {
+    "play": "Phát",
+    "pause": "Tạm dừng",
+    "next": "Tiếp theo",
+    "previous": "Trước",
+    "shuffle": "Trộn",
+    "repeat": "Lặp lại",
+    "volume": "Âm lượng",
+    "lyrics": "Lời bài hát"
+  },
+  "playlist": {
+    "title": "Danh sách phát",
+    "create": "Tạo danh sách phát",
+    "delete": "Xóa",
+    "add": "Thêm vào danh sách phát",
+    "remove": "Xóa khỏi danh sách phát"
+  },
+  "favorites": {
+    "title": "Yêu thích",
+    "add": "Thêm vào yêu thích",
+    "remove": "Xóa khỏi yêu thích"
+  },
+  "settings": {
+    "title": "Cài đặt",
+    "theme": "Chủ đề",
+    "language": "Ngôn ngữ",
+    "quality": "Chất lượng âm thanh",
+    "autoPlay": "Tự động phát",
+    "light": "Sáng",
+    "dark": "Tối",
+    "low": "Thấp",
+    "medium": "Trung bình",
+    "high": "Cao"
+  },
+  "stats": {
+    "title": "Thống kê nghe nhạc",
+    "totalTime": "Tổng thời gian nghe",
+    "totalSongs": "Tổng bài hát đã phát",
+    "favoriteGenres": "Thể loại yêu thích"
+  },
+  "common": {
+    "loading": "Đang tải...",
+    "error": "Lỗi",
+    "success": "Thành công",
+    "cancel": "Hủy",
+    "save": "Lưu",
+    "delete": "Xóa",
+    "edit": "Chỉnh sửa"
+  }
+}
