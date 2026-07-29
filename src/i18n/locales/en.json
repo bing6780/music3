@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "home": "Home",
+    "explore": "Explore",
+    "library": "Library",
+    "search": "Search"
+  },
+  "player": {
+    "play": "Play",
+    "pause": "Pause",
+    "next": "Next",
+    "previous": "Previous",
+    "shuffle": "Shuffle",
+    "repeat": "Repeat",
+    "volume": "Volume",
+    "lyrics": "Lyrics"
+  },
+  "playlist": {
+    "title": "Playlists",
+    "create": "Create Playlist",
+    "delete": "Delete",
+    "add": "Add to Playlist",
+    "remove": "Remove from Playlist"
+  },
+  "favorites": {
+    "title": "Favorites",
+    "add": "Add to Favorites",
+    "remove": "Remove from Favorites"
+  },
+  "settings": {
+    "title": "Settings",
+    "theme": "Theme",
+    "language": "Language",
+    "quality": "Audio Quality",
+    "autoPlay": "Auto Play",
+    "light": "Light",
+    "dark": "Dark",
+    "low": "Low",
+    "medium": "Medium",
+    "high": "High"
+  },
+  "stats": {
+    "title": "Listening Statistics",
+    "totalTime": "Total Listening Time",
+    "totalSongs": "Total Songs Played",
+    "favoriteGenres": "Favorite Genres"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit"
+  }
+}
